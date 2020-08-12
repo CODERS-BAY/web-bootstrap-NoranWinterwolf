@@ -1,4 +1,4 @@
-# template-bootstrap
+# Übung Bootstrap
 
 ## Get Started: https://getbootstrap.com
 
@@ -14,3 +14,9 @@ Stelle sie kurz vor<br>
 - Indoor/Outdoor
 - Vereine?
 - weitere Infos und Besonderheiten...
+
+## Anforderung
+- du darfst kein eigenes CSS schreiben
+- kein Inlinestyling
+- es muss alles über Bootstrap Klassen und Code Snippets erstellt werden
+- es muss responsive sein!
